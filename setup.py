@@ -28,7 +28,7 @@ setup(
             'step_3 = lesson_04.step_3:main',
             'square = lesson_04.square:main',
             'mover = lesson_04.mover:main',
-            'draw_ilyas = lesson_04.draw_ilyas:main',
+            'draw_ilyas = lesson_04.draw_ilyas:main', # <--- добавляем свой файл выполнения кода 
         ],
     },
 )
